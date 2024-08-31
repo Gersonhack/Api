@@ -1,0 +1,20 @@
+[
+  {
+    "brand": "Toyota",
+    "model": "Corolla",
+    "price": 20000,
+    "image": "/3965e24cf1d83052d0fe067d7c52331a.jpg"
+},
+  {
+    "brand": "Ford",
+    "model": "Mustang",
+    "price": 35000,
+    "image": "https://via.placeholder.com/150"
+},
+  {
+    "brand": "Honda",
+    "model": "Civic",
+    "price": 22000,
+    "image": "https://via.placeholder.com/150"
+}
+]
